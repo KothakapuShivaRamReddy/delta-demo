@@ -1,2 +1,2 @@
 # delta-demo
-this is demo file git
+this is demo file for git & github.
